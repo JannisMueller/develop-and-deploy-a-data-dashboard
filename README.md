@@ -8,12 +8,6 @@ This is a flask app that visualizes data from the world bank API. Data is
 pulled directly from the API and then visualized using Plotly.
 The web app was delpoyed on heroku.
 
-
-## Getting Started 
-
-This flask app can be used as a template for visualizing your own data. Use
-the template to enhance your professional portfolio. 
-
 ## Prerequisites
 
 To install the flask app, you need:
